@@ -1,0 +1,124 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 15rem;
+  min-height: 100%;
+}
+
+.page-wrap {
+  margin: 0 auto;
+}
+
+
+footer{
+ background-color: #F5F5F5;
+ right: 0;
+ bottom: 0;
+ left:0;
+ padding: 1rem;
+ background: solid;
+ position: absolute;
+ width: 100%;
+ text-align: center;
+ z-index: 1;
+}
+.iconlink{
+  margin: 20px auto;
+  width: 163px;
+}
+.smallbox{
+  width: 50px;
+  height: 50px;
+  margin: 0 2px;
+  float: left;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.box1{
+  background-image: url("../images/icons/github.png");
+}
+.box2{
+  background-image: url("../images/icons/linkicon.png");
+}
+.box3{
+  background-image: url("../images/icons/stackicon.png");
+}
+.box1:hover{
+  background-image: url("../images/icons/githubicon.png");
+}
+.box2:hover{
+  background-image: url("../images/icons/link-icon.jpg");
+}
+.box3:hover{
+  background-image: url("../images/icons/stack.png");
+}
+.whole-page{
+  min-height: 100vh;
+}
+.leftColor{
+  background-color: lightblue;
+  position: fixed;
+  z-index: 1;
+}
+.fixed{
+  position: fixed;
+  margin-top: 5%;
+  text-align: center;
+  background-color: lightblue;
+  padding: 2% 0;
+  z-index: 10;
+}
+#profilePic{
+  width: 150px;
+  height: 150px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+#aboutPic{
+  margin-top: 20px;
+  margin-left: 50%;
+  transform:translateX(-50%);
+  width: 300px;
+  height: 300px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.center{
+  text-align: center;
+}
+img{
+  width: 242px;
+  height: 200px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+p{
+  font-size: 18px;
+}
+li{
+  font-size: 20px;
+  line-height: 40px;;
+}
+#about{
+  background-color: lightyellow;
+  padding-bottom: 100px;
+}
+#portfolio{
+  background-color: lightpink;
+  padding-bottom: 100px;
+}
