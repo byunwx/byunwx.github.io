@@ -142,9 +142,14 @@ form input, form textarea{
 form textarea{
   height: 200px;
 }
+.mediaOn{
+  display: none;
+}
 @media screen and (max-width: 600px) {
   .mediagone{
     display: none;
   }
-
+  .mediaOn{
+    display: inherit;
+  }
 }
