@@ -148,6 +148,9 @@ form textarea{
 h3{
   padding-top: 10px;
 }
+.caption{
+  background-color: lightgray;
+}
 @media screen and (max-width: 600px) {
   .mediagone{
     display: none;
