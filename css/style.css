@@ -152,6 +152,11 @@ h3{
   background-position: center center;
   background-repeat: no-repeat;
 }
+.thumbnail{
+  height: 450px;
+  overflow: auto;
+}
+
 @media screen and (max-width: 600px) {
   .mediagone{
     display: none;
