@@ -144,7 +144,7 @@ h3{
   padding-top: 10px;
 }
 .caption{
-  background-color: lightgray;
+  background-color: #ffffff7d;
 }
 .thumbnail img{
   height: 250px;
@@ -155,6 +155,7 @@ h3{
 .thumbnail{
   height: 450px;
   overflow: auto;
+  background-color: #ffffff7d;
 }
 
 @media screen and (max-width: 600px) {
