@@ -121,15 +121,15 @@ li{
   transform: translateY(-50%);
 }
 #about{
-  background-color: lightyellow;
+  background-color: #e5fdec;
   padding-bottom: 100px;
 }
 #portfolio{
-  background-color: lightpink;
+  background-color:  #ffe9ec;
   padding-bottom: 100px;
 }
 #contact{
-  background-color: lightblue;
+  background-color: #ddf1f7;
 }
 form input, form textarea{
   width: 300px;
