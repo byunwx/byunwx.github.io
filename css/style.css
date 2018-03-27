@@ -33,6 +33,9 @@ footer{
  text-align: center;
  z-index: 1;
 }
+.copyright{
+  font-size: 10px;
+}
 .iconlink{
   margin: 20px auto;
   width: 163px;
