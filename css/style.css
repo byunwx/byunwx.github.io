@@ -22,7 +22,7 @@ body {
 
 
 footer{
- background-color: #E5F3F9;
+ background-color: #76B333;
  right: 0;
  bottom: 0;
  left:0;
@@ -32,20 +32,18 @@ footer{
  width: 100%;
  text-align: center;
  z-index: 1;
- color: white;
 }
 a {
   color: #788088;
-  margin: 3px;
 }
 a:hover {
   font-weight: bold;
-  margin: 3px;
 }
 
 form input, form textarea {
   width: 300px;
   background-color: #f2f9fc;
+  border-radius: 5px;
 }
 
 .copyright{
@@ -144,7 +142,7 @@ li{
 }
 #about{
   /* background-color: #fff1de; */
-  background-color: #CCE9F4;
+  background-color: #FDEDD3;
   padding-bottom: 100px;
 }
 #portfolio{
@@ -153,7 +151,7 @@ li{
   padding-bottom: 100px;
 }
 #contact{
-  background-color: #33A6D4;
+  background-color:#F8DBE1;
   /* background-image: url("https://9raphics.com/wp-content/uploads/2017/03/fat-man-running-animate-color.gif"); */
 }
 form input, form textarea{
