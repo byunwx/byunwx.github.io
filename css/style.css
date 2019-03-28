@@ -157,11 +157,11 @@ form input, form textarea{
   width: 400px;
   background-color: #DCDBDC;
   border-radius: 8px;
-  color: coral;
+  color: rgba(0, 0, 0, 0.8);
   font-weight: bold;
 }
 ::placeholder { 
-  color: #20c997;
+  color: coral;
   font-weight: normal;
 }
 
