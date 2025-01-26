@@ -124,8 +124,7 @@ li{
   line-height: 40px;;
 }
 #welcome{
-  /* background-image: url("https://cdn-images-1.medium.com/max/1600/1*zVDcaM6mqhi9m0LP_Sq4Ag.jpeg"); */
-  background-image: url("https://9raphics.com/wp-content/uploads/2017/08/Alphabet-Business-Card.jpg");
+  background-image: url("../images/mypic.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
